@@ -1,6 +1,10 @@
 # wings
 [WIP] Developer rank
 
+### Raw
+- [ ] [react-highlight](https://github.com/bvaughn/react-highlight.js) : React component for syntax highlighting using highlight.js
+- [ ] [react-dnd](http://gaearon.github.io/react-dnd/) : React higher-order components to help you build complex drag and drop interface
+
 ### Expected
 - [ ] User can login with github.
 - [ ] User can route to specified quiz.
@@ -24,11 +28,10 @@
 E|, ||, |||, IV, V, VI, VII, VIII, IX, X
 ```
 
-### Ads
-- [ ] Links Ads
-- [ ] Payments systems
-
 # v2
+### Pro
+- [ ] Subscriptions
+- [ ] Payments
 
 ### Users
 - [ ] React Quiz
@@ -44,5 +47,3 @@ R|, ||, |||, IV, V, VI, VII, VIII, IX, X
 ```
 G|, ||, |||, IV, V, VI, VII, VIII, IX, X
 ```
-
-# v4
