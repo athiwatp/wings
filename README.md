@@ -1,6 +1,10 @@
 # wings
 [WIP] Developer rank
 
+### Existing
+- http://github-awards.com/users?city=bangkok&language=javascript
+- https://techcrunch.com/2016/11/07/triplebyte-resuls/
+
 ### Raw
 - [ ] [react-highlight](https://github.com/bvaughn/react-highlight.js) : React component for syntax highlighting using highlight.js
 - [ ] [react-dnd](http://gaearon.github.io/react-dnd/) : React higher-order components to help you build complex drag and drop interface
