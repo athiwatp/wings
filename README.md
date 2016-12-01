@@ -1,6 +1,10 @@
 # wings
 [WIP] Developer rank
 
+
+### Inspired
+- https://hyperdev.com/about/
+
 ### Existing
 - http://github-awards.com/users?city=bangkok&language=javascript
 - https://techcrunch.com/2016/11/07/triplebyte-resuls/
