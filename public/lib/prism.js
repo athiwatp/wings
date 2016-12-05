@@ -240,9 +240,7 @@ var _ = _self.Prism = {
 
 			_.hooks.run('before-insert', env);
 
-			// hack
-			// env.element.innerHTML = env.highlightedCode;
-			env.element.innerHTML = `<div onclick='console.log'>${env.highlightedCode}</a>`;
+			env.element.innerHTML = env.highlightedCode;
 
 			callback && callback.call(element);
 
@@ -416,8 +414,14 @@ var Token = _.Token = function(type, content, alias, matchedStr, greedy) {
 };
 
 Token.stringify = function(o, language, parent) {
+	console.log(o);
 	if (typeof o == 'string') {
-		return o;
+		if(['_____'].includes(o.trim())){
+			const regex = new RegExp('\\' + o, 'g');
+			return o.replace(regex, ` <button onclick="foo(this, 0)"> _____ </button> `);
+		} else {
+			return o;
+		}
 	}
 
 	if (_.util.type(o) === 'Array') {
