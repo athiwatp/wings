@@ -23,7 +23,7 @@
 - [ ] System will provide next key after finish each quiz.
 - [ ] System will track every action and replayable.
 - [ ] System will use active and passive to verify quiz results.
-- [ ] System will keep immutable score for each user. 
+- [ ] System will keep immutable score for each user.
 
 # v1
 ### Users
@@ -41,8 +41,12 @@ E|, ||, |||, IV, V, VI, VII, VIII, IX, X
 ### Pro
 - [ ] Subscriptions
 - [ ] Payments
+- [ ] User can invite by email and get coin.
+- [ ] User can use 1 coin to replay.
+- [ ] User can paid fo coin.
 
 ### Users
+- [ ] User have 3 coins at start.
 - [ ] React Quiz
 - [ ] Reaction to quiz
 ```
