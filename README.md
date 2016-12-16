@@ -1,9 +1,15 @@
 # wings
 [WIP] Developer rank
 
-
 ### Inspired
 - https://hyperdev.com/about/
+
+### Quiz
+- http://perfectionkills.com/javascript-quiz-es6/
+- http://tutorialzine.com/2015/11/think-you-know-es6-prove-it/
+- https://maxwellito.github.io/es6-quiz-slides/#/
+- https://github.com/getify/You-Dont-Know-JS
+- https://wall.itsquiz.com/activations/56dd593abc8a15ef3f8bfa01/es6-quiz
 
 ### Existing
 - http://github-awards.com/users?city=bangkok&language=javascript
@@ -18,7 +24,7 @@
 - [ ] User can login with github.
 - [ ] User can route to specified quiz.
 - [ ] User can share read only quiz.
-- [ ] User can reaction to quiz.
+- [ ] User can rank each quiz.
 - [ ] System will provide all encrypted quiz at once.
 - [ ] System will provide next key after finish each quiz.
 - [ ] System will track every action and replayable.
@@ -27,35 +33,35 @@
 
 # v1
 ### Users
-- [ ] User
+- [ ] User system.
+- [ ] Developer Rank Badge.
+- [ ] Developer HighScore Board.
+- [ ] FAQ.
+- [ ] Sticker Badge.
+
+### Quiz
 - [ ] ES6 Quiz
-- [ ] Developer Rank Badge
-- [ ] Developer HighScore Board
-- [ ] FAQ
-- [ ] Sticker
 ```
 E|, ||, |||, IV, V, VI, VII, VIII, IX, X
 ```
 
 # v2
 ### Pro
-- [ ] Subscriptions
-- [ ] Payments
-- [ ] User can invite by email and get coin.
+- [ ] User can invite by refferal link and get coin.
+- [ ] User will recieve notify if refferal succeed.
 - [ ] User can use 1 coin to replay.
-- [ ] User can paid fo coin.
+- [ ] User can paid for coin.
 
 ### Users
 - [ ] User have 3 coins at start.
-- [ ] React Quiz
-- [ ] Reaction to quiz
+
 ```
 R|, ||, |||, IV, V, VI, VII, VIII, IX, X
 ```
 
 # v3
 
-### Users
+### Quiz
 - [ ] GraphQL Quiz
 ```
 G|, ||, |||, IV, V, VI, VII, VIII, IX, X
