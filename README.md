@@ -10,6 +10,7 @@
 - https://maxwellito.github.io/es6-quiz-slides/#/
 - https://github.com/getify/You-Dont-Know-JS
 - https://wall.itsquiz.com/activations/56dd593abc8a15ef3f8bfa01/es6-quiz
+- https://github.com/DrkSephy/es6-cheatsheet
 
 ### Existing
 - http://github-awards.com/users?city=bangkok&language=javascript
